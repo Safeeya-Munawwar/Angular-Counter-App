@@ -1,4 +1,4 @@
-# 📚 Bookstore Management System
+# 🔢 Angular Counter App
 
 ![Angular](https://img.shields.io/badge/Angular-18-red)
 
