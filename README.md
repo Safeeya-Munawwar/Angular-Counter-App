@@ -1,59 +1,58 @@
-# CounterApp
+# 📚 Bookstore Management System
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.6.
+![Angular](https://img.shields.io/badge/Angular-18-red)
 
-## Development server
+---
 
-To start a local development server, run:
+A simple **Counter App** built using **Angular**.
+Click the buttons to increase, decrease, or reset the counter. The counter value **cannot go below 0**.
 
-```bash
-ng serve
-```
+---
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 🚀 Features
+- ✅ Increase counter by 1
+- ✅ Decrease counter by 1 (minimum value 0)
+- ✅ Reset counter to 0
+- ✅ Interactive and responsive Angular UI
 
-## Code scaffolding
+---
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🛠️ Tech Stack
+- **Frontend:** Angular 17
+- **Language:** TypeScript, HTML, SCSS
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## ⚡ How It Works
+- **Increase:** Adds 1 to the current counter value.
+- **Decrease:** Subtracts 1 from the current counter value (stops at 0).
+- **Reset:** Sets the counter value back to 0.
 
-```bash
-ng generate --help
-```
+---
 
-## Building
+## 📸 Screenshot
+![CounterApp](c-1.PNG)
 
-To build the project run:
+---
 
-```bash
-ng build
-```
+## 🚀 Author
+ **Safeeya Munawwar**
+ <p>
+  <a href="https://www.linkedin.com/in/safeeya-munawwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Safeeya-Munawwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shafiyasha0036@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://safeeya-munawwar-personal-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+© 2025 Angular Counter App | Built with ❤️ using Angular
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
